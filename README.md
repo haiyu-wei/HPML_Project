@@ -8,7 +8,7 @@ By leveraging PyTorch profiling tools, custom scripts, and large language models
 and targeted suggestions to resolve graph compilation errors efficiently. Our work combines structured error classification with LLM-powered feedback, 
 enabling developers to address issues with greater clarity and reduced effort.
 
-The code repository contains Copy_of_graphbreak.ipynb, which contains our work in detailing a taxonomy of graph breaks,
+The code repository contains graphbreak-taxonomy.ipynb, which contains our work in detailing a taxonomy of graph breaks,
 Graph_Detector_LLM_Explanation_API_Configured.ipynb, which employs the Gemini API to prompt engineer and process the
 explanations provided by PyTorch, and graphbreak-taxonomy.pdf, which provides a detailed list of our taxonomy results.
 
