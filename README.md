@@ -11,6 +11,8 @@ enabling developers to address issues with greater clarity and reduced effort.
 The code repository contains graphbreak-taxonomy.ipynb, which contains our work in detailing a taxonomy of graph breaks,
 Graph_Detector_LLM_Explanation_API_Configured.ipynb, which employs the Gemini API to prompt engineer and process the
 explanations provided by PyTorch, and graphbreak-taxonomy.pdf, which provides a detailed list of our taxonomy results.
+Graph_Detector_LLM_Explanation_FINAL_PRESENTATION_DEMO.ipynb is a notebook that has a demo which showcases some of the
+key features underlying our analysis of PyTorch graph breaks.
 
 To execute the code, one can run the notebooks on Google Colab. We used the T4 GPU when testing. Also, for the Gemini
 API, one would need to insert a Gemini API key in the relevant section of the code (which is clearly commented), but to
